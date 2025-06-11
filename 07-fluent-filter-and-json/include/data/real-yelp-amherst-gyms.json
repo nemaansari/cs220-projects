@@ -1,0 +1,667 @@
+[
+  {
+    "business_id": "z8alyLDBxcwvh6QfeLnVjw",
+    "name": "Amherst Fitness",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3727728,
+    "longitude": -72.5019513,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Weight Loss Centers"
+    ]
+  },
+  {
+    "business_id": "cWrkXLR6CazYqa5anfd3fA",
+    "name": "Hampshire Athletic Club",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.365585,
+    "longitude": -72.485512,
+    "stars": 3.4,
+    "review_count": 16,
+    "categories": [
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "3un72MSZEQe1X6eCUQlT8Q",
+    "name": "Fitness Together",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37607,
+    "longitude": -72.50941,
+    "stars": 4.8,
+    "review_count": 5,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "xaSUhHGkBBAjolDEuIXgPQ",
+    "name": "Planet Fitness",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.355771,
+    "longitude": -72.548839,
+    "stars": 2.8,
+    "review_count": 35,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "BY44gIAC_GIS8e8B9CO5jQ",
+    "name": "The Aerobics and Fitness Studio",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.34653,
+    "longitude": -72.57584,
+    "stars": 4.9,
+    "review_count": 10,
+    "categories": [
+      "Trainers",
+      "Health Coach",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "IXvS3pjJfquDuHpzr50_2g",
+    "name": "Anytime Fitness",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.366147,
+    "longitude": -72.536866,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "l3PKLOQEi65vWnZ8H8dUdA",
+    "name": "Central Rock Gym",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3420646430718,
+    "longitude": -72.5845277501533,
+    "stars": 4.4,
+    "review_count": 29,
+    "categories": [
+      "Gyms",
+      "Yoga",
+      "Rock Climbing"
+    ]
+  },
+  {
+    "business_id": "2O9OeNAH5bMQPp2UqlyZiA",
+    "name": "F45 Training Hampshire Meadows",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.34397,
+    "longitude": -72.57745,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Trainers",
+      "Interval Training Gyms",
+      "Circuit Training Gyms"
+    ]
+  },
+  {
+    "business_id": "4UOzmPY68aVqlSiOuZ5NJQ",
+    "name": "50/50 Fitness/Nutrition",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3480987060508,
+    "longitude": -72.5697104930878,
+    "stars": 4,
+    "review_count": 5,
+    "categories": [
+      "Trainers",
+      "Boot Camps",
+      "Barre Classes"
+    ]
+  },
+  {
+    "business_id": "3X_rVEwLz4mnto10U-oz5Q",
+    "name": "The Pilates Studio",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.341982498765,
+    "longitude": -72.5959570705891,
+    "stars": 4.9,
+    "review_count": 9,
+    "categories": [
+      "Pilates",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "0TZ1_jti4YRr-OWk8X2otw",
+    "name": "Orangetheory Fitness Hadley",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.355671,
+    "longitude": -72.551572,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Boot Camps",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "naHSJE9IqHuU0MNKYLJ-Lg",
+    "name": "Build Yoga and Wellness",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01004",
+    "latitude": 42.377432,
+    "longitude": -72.519383,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "Ee5Z9BPbyNleMyJQnoQarg",
+    "name": "Amherst Athletic Club",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.34076,
+    "longitude": -72.51948,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "4fYqUM45yyuEDI1-6pIhgg",
+    "name": "The Body Tailor",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3705215,
+    "longitude": -72.5320892,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "z84-4zcab2K_0f5midKTOg",
+    "name": "New England Submission Fighting",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3405538971254,
+    "longitude": -72.51952462482933,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "XAwYu_u9DG0jscBervtxhw",
+    "name": "AIM Training",
+    "city": "Sunderland",
+    "state": "MA",
+    "postal_code": "01375",
+    "latitude": 42.4307,
+    "longitude": -72.54405,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Taekwondo",
+      "First Aid Classes",
+      "CPR Classes"
+    ]
+  },
+  {
+    "business_id": "FERZxH6O1vj_ElFGxQEXkw",
+    "name": "Amherst Pilates",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3752289,
+    "longitude": -72.511673,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Fitness & Instruction"
+    ]
+  },
+  {
+    "business_id": "xBQYphuQ2m25rFKV2mK2EA",
+    "name": "Training Longevity",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.372552,
+    "longitude": -72.502238,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "uhY8p1VgiQg9dKhfghJHxA",
+    "name": "Fit Women",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.373009,
+    "longitude": -72.531929,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "53xATWMW0g8e4efRt6-pdQ",
+    "name": "Christie Rosen Yoga & Wellness",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37585449,
+    "longitude": -72.51154327,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Yoga",
+      "Health Coach"
+    ]
+  },
+  {
+    "business_id": "EhrO8n-m6VLGwL1_t6Rxjw",
+    "name": "Attain Therapy + Fitness",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3703651428223,
+    "longitude": -72.5341262817383,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Physical Therapy",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "cOF7tgpMxuRIvbA8VL1e5Q",
+    "name": "Hands of Avalo",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.374467,
+    "longitude": -72.515729,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Meditation Centers",
+      "Reiki",
+      "Massage Therapy"
+    ]
+  },
+  {
+    "business_id": "ETKmnEmS4wlayFl6kW_5Mw",
+    "name": "Downtown Mindfulness",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37670433,
+    "longitude": -72.5197065,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Meditation Centers"
+    ]
+  },
+  {
+    "business_id": "KFYJs31lZVZNjjYyEOxBnA",
+    "name": "Red Lotus Acupuncture",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3746537,
+    "longitude": -72.4527422,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Acupuncture",
+      "Counseling & Mental Health",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "0B2PkW5Wrj2ggKSN_n9o-A",
+    "name": "Chinese Kung Fu Wushu Academy",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3607483,
+    "longitude": -72.4880066,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Tai Chi",
+      "Chinese Martial Arts"
+    ]
+  },
+  {
+    "business_id": "b8Ab8qI3fZla2BgGAGv_qQ",
+    "name": "Jackie Kono",
+    "city": "Salem",
+    "state": "MA",
+    "postal_code": "01970",
+    "latitude": 42.52041,
+    "longitude": -70.89437,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Psychologists",
+      "Reiki",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "GZUihPsZBdb6xSepU2kGCw",
+    "name": "Jazzercise - Amherst",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.34029264434321,
+    "longitude": -72.51963760139417,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Fitness & Instruction"
+    ]
+  },
+  {
+    "business_id": "ePfJw227GKPI2BtvXBK7LA",
+    "name": "Shaolin Kung Fu Center - Hadley",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.32526428285895,
+    "longitude": -72.57651607721951,
+    "stars": 3.7,
+    "review_count": 3,
+    "categories": [
+      "Chinese Martial Arts"
+    ]
+  },
+  {
+    "business_id": "7zbeqnbGHEkC4C41xhk1XQ",
+    "name": "Aikido of Amherst",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.33965,
+    "longitude": -72.51976,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "gay1ywgJ0nvm97J8grV2_Q",
+    "name": "JPS Fitness Equipment Services",
+    "city": "Worcester",
+    "state": "MA",
+    "postal_code": "01607",
+    "latitude": 42.22817,
+    "longitude": -71.78373,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Appliances & Repair",
+      "Furniture Assembly",
+      "Fitness & Instruction"
+    ]
+  },
+  {
+    "business_id": "Hed99U0f0GO2GoFe3oMmcw",
+    "name": "Davis Wellness",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3467172683258,
+    "longitude": -72.571206741803,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Massage Therapy",
+      "Hypnosis/Hypnotherapy",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "DrlDCQtO1yLunCuYm20LNQ",
+    "name": "Qigong Infused Yoga",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3420715332031,
+    "longitude": -72.5850601196289,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Yoga",
+      "Tai Chi",
+      "Qi Gong"
+    ]
+  },
+  {
+    "business_id": "w7S331fI6kpc4rvMLiGMrQ",
+    "name": "Amherst Martial Arts",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.373614,
+    "longitude": -72.502358,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "CPVODHV8eZny1sCmFhqxFA",
+    "name": "Aurora Family Support",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3774566650391,
+    "longitude": -72.5183639526367,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Doulas",
+      "Home Organization",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "zzkFSf1iIPGTswx7C2PhlQ",
+    "name": "Moon Sanctuary",
+    "city": "Northampton",
+    "state": "MA",
+    "postal_code": "01060",
+    "latitude": 42.31729574579084,
+    "longitude": -72.63131254045342,
+    "stars": 4.5,
+    "review_count": 8,
+    "categories": [
+      "Massage Therapy",
+      "Yoga",
+      "Reiki"
+    ]
+  },
+  {
+    "business_id": "CLJsYFQ6RY0Sjdy_sBtMyw",
+    "name": "Ground Units BJJ",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.33960708347537,
+    "longitude": -72.51976499999999,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Martial Arts",
+      "Self-defense Classes"
+    ]
+  },
+  {
+    "business_id": "se65LrVkREmAws7hV4x0mw",
+    "name": "Sun Essence Yoga",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3579099,
+    "longitude": -72.52107,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Yoga",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "7UbA5sg_rtRxfZYwhc8x7g",
+    "name": "Elite Tae Kwon Do",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.35815,
+    "longitude": -72.54965,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Taekwondo"
+    ]
+  },
+  {
+    "business_id": "KYhmK4Q0obJogOCuOokPJw",
+    "name": "Jayadeva Yoga School",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.340522,
+    "longitude": -72.520541,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "25bYXpI5bjZ4OPREc-wG1g",
+    "name": "Patrick Crowley, ABMP LMT",
+    "city": "Northampton",
+    "state": "MA",
+    "postal_code": "01060",
+    "latitude": 42.318355,
+    "longitude": -72.631105,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Massage",
+      "Massage Therapy",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "OuBk7tYCX2BxagFeVsJl6w",
+    "name": "Reiki Bliss",
+    "city": "Easthampton",
+    "state": "MA",
+    "postal_code": "01027",
+    "latitude": 42.26676,
+    "longitude": -72.66753,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Yoga",
+      "Reiki"
+    ]
+  },
+  {
+    "business_id": "F8n4i5to3qXzplEDcN3HIQ",
+    "name": "Window of Heaven Acupuncture & Yoga",
+    "city": "Hatfield",
+    "state": "MA",
+    "postal_code": "01038",
+    "latitude": 42.36107575134843,
+    "longitude": -72.61357771199535,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Yoga",
+      "Acupuncture",
+      "Astrologers"
+    ]
+  },
+  {
+    "business_id": "LPnaYXpF9Kj1yrSMlKjtqQ",
+    "name": "Marit Harney",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3472566,
+    "longitude": -72.5713362,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Nutritionists",
+      "Trainers",
+      "Naturopathic/Holistic"
+    ]
+  },
+  {
+    "business_id": "bGiM5wQHFwMmgZiIedBf-A",
+    "name": "The Children's Ballet & Movement Co",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.34647,
+    "longitude": -72.58319,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Dance Schools",
+      "Art Schools",
+      "Dance Studios"
+    ]
+  }
+]

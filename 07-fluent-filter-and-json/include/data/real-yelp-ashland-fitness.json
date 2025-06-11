@@ -1,0 +1,754 @@
+[
+  {
+    "business_id": "OX2URr9rUrI4HXVpDyqQqA",
+    "name": "Snap Fitness",
+    "city": "Ashland",
+    "state": "OH",
+    "postal_code": "44805",
+    "latitude": 40.8577025,
+    "longitude": -82.2712183,
+    "stars": 4.5,
+    "review_count": 2,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "YU7nqHeLPpn3B_NZBsZhOQ",
+    "name": "Evolve Barre Yoga Pilates",
+    "city": "Mansfield",
+    "state": "OH",
+    "postal_code": "44903",
+    "latitude": 40.77179018435878,
+    "longitude": -82.56329525889606,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Barre Classes",
+      "Yoga",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "-pd6MlVG_o7C_f8mEo-WDw",
+    "name": "Lashley Training Center",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "postal_code": "43050",
+    "latitude": 40.37506,
+    "longitude": -82.48476,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "ZlPf-bjm1Ep1JvNIcBBQcQ",
+    "name": "High Reaches Hapkido Club",
+    "city": "Ashland",
+    "state": "OH",
+    "postal_code": "44805",
+    "latitude": 40.8685612390574,
+    "longitude": -82.3134444387181,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Martial Arts",
+      "Cardio Classes",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "8-tilLb9bgDzzlvOrmgeBQ",
+    "name": "MAD-FIT",
+    "city": "Mansfield",
+    "state": "OH",
+    "postal_code": "44905",
+    "latitude": 40.77313,
+    "longitude": -82.48075,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Martial Arts",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "nqXm3ITiOxt-yhU39uEq8w",
+    "name": "Route 250 Health & Performance",
+    "city": "New Philadelphia",
+    "state": "OH",
+    "postal_code": "44663",
+    "latitude": 40.48051,
+    "longitude": -81.44149,
+    "stars": 4.7,
+    "review_count": 3,
+    "categories": [
+      "Gyms",
+      "Child Care & Day Care",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "dBEjxUNcMVxL8OXdFiXGpg",
+    "name": "Planet Fitness",
+    "city": "Wooster",
+    "state": "OH",
+    "postal_code": "44691",
+    "latitude": 40.82752824601766,
+    "longitude": -81.90948927,
+    "stars": 3.5,
+    "review_count": 4,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "0N3Ysa83Ht9OD-ItA-DbIg",
+    "name": "Club Pilates",
+    "city": "Fairlawn",
+    "state": "OH",
+    "postal_code": "44333",
+    "latitude": 41.1252613,
+    "longitude": -81.6016548,
+    "stars": 4.4,
+    "review_count": 11,
+    "categories": [
+      "Pilates",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "JuFj6cBhlmhKbSa_qpqTtw",
+    "name": "The Warehouse",
+    "city": "Ashland",
+    "state": "OH",
+    "postal_code": "44805",
+    "latitude": 40.8555215,
+    "longitude": -82.2710362,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "UuDjazFLgZHMqqSwZqAHNQ",
+    "name": "Tru Barre Studio-Medina",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.13764,
+    "longitude": -81.785939,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Barre Classes",
+      "Pilates",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "W5k6WW_GALZJw_PaGr-mvQ",
+    "name": "Psycle",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.4571785,
+    "longitude": -81.8977054,
+    "stars": 4.7,
+    "review_count": 19,
+    "categories": [
+      "Cycling Classes"
+    ]
+  },
+  {
+    "business_id": "gXwLzW8tf8_YQwqXF60Ycw",
+    "name": "9Round Kickboxing Fitness",
+    "city": "Fairlawn",
+    "state": "OH",
+    "postal_code": "44333",
+    "latitude": 41.13171,
+    "longitude": -81.614,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Kickboxing",
+      "Nutritionists"
+    ]
+  },
+  {
+    "business_id": "eybVYGx1HMkeRZAOY3hSag",
+    "name": "Downtown Fitness",
+    "city": "Mansfield",
+    "state": "OH",
+    "postal_code": "44902",
+    "latitude": 40.76033,
+    "longitude": -82.51592,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "nKnJ94v3KcKNi-l05gPOKw",
+    "name": "Wooster 24hour Total Fitness ",
+    "city": "Wooster",
+    "state": "OH",
+    "postal_code": "44691",
+    "latitude": 40.7816,
+    "longitude": -81.959068,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "zpEVZxqwCLPKrhJNoyJnOw",
+    "name": "Bad Girl Fitness",
+    "city": "Amherst",
+    "state": "OH",
+    "postal_code": "44001",
+    "latitude": 41.416641,
+    "longitude": -82.200383,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "_CKZFOWPPTOiPUBYbkBRZg",
+    "name": "CrossFit Sandusky",
+    "city": "Sandusky",
+    "state": "OH",
+    "postal_code": "44870",
+    "latitude": 41.4577252,
+    "longitude": -82.709841,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "PnTE7kOY0plZzIOgdevZ0A",
+    "name": "Strive Health Fitness",
+    "city": "Loudonville",
+    "state": "OH",
+    "postal_code": "44842",
+    "latitude": 40.63582,
+    "longitude": -82.23614,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Cardio Classes"
+    ]
+  },
+  {
+    "business_id": "VP5G1Hc3pj0J0bLG9G9ocQ",
+    "name": "Merchant Logo Health & Strength Gym",
+    "city": "Sandusky",
+    "state": "OH",
+    "postal_code": "44870",
+    "latitude": 41.444559300059154,
+    "longitude": -82.69467592983148,
+    "stars": 4.3,
+    "review_count": 3,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "0xuPOJvlV8Cea73KB8cGzQ",
+    "name": "Maple City Health Club",
+    "city": "Norwalk",
+    "state": "OH",
+    "postal_code": "44857",
+    "latitude": 41.233752,
+    "longitude": -82.637727,
+    "stars": 4,
+    "review_count": 1,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "nL-cO4V-Xu3wZyzCcP5NOg",
+    "name": "Anytime Fitness",
+    "city": "Norwalk",
+    "state": "OH",
+    "postal_code": "44857",
+    "latitude": 41.2268,
+    "longitude": -82.60157,
+    "stars": 4.2,
+    "review_count": 5,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "3Pq-oQUACJpd7M1nMhhoiQ",
+    "name": "The Warehouse",
+    "city": "North Canton",
+    "state": "OH",
+    "postal_code": "44720",
+    "latitude": 40.872366,
+    "longitude": -81.429377,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Martial Arts",
+      "Boxing",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "K-RN-pOXjezjbf64mEv-Ng",
+    "name": "YMCA of Ashland Ohio",
+    "city": "Ashland",
+    "state": "OH",
+    "postal_code": "44805",
+    "latitude": 40.8690528869629,
+    "longitude": -82.3055038452148,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms",
+      "Child Care & Day Care"
+    ]
+  },
+  {
+    "business_id": "hUqdg419psm5jARizlx2eg",
+    "name": "On The Rocks Climbing Gym",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.3658902739742,
+    "longitude": -82.2100538928106,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Gyms",
+      "Rock Climbing",
+      "Climbing"
+    ]
+  },
+  {
+    "business_id": "-npudKvRisovz5KCV8QITg",
+    "name": "Rise Fitness",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.1697599,
+    "longitude": -81.85981,
+    "stars": 3,
+    "review_count": 9,
+    "categories": [
+      "Fitness & Instruction"
+    ]
+  },
+  {
+    "business_id": "8Xea0SP8OMrSnkxkAXtb9w",
+    "name": "Kinetics Fitness For Life",
+    "city": "Millersburg",
+    "state": "OH",
+    "postal_code": "44654",
+    "latitude": 40.54183,
+    "longitude": -81.91467,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "QkmEZDOFtrvq4m_SBsM76g",
+    "name": "Pure Barre",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44011",
+    "latitude": 41.4544742,
+    "longitude": -81.9883804,
+    "stars": 4.5,
+    "review_count": 17,
+    "categories": [
+      "Barre Classes",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "meGY69p57EOU67PtMmbodw",
+    "name": "Twinsburg Fitness Center",
+    "city": "Twinsburg",
+    "state": "OH",
+    "postal_code": "44087",
+    "latitude": 41.31679652585717,
+    "longitude": -81.45194067049297,
+    "stars": 2.8,
+    "review_count": 11,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "NtnW6hy5HcSs9QPKvfFB6w",
+    "name": "Studio Fit One",
+    "city": "Canton",
+    "state": "OH",
+    "postal_code": "44718",
+    "latitude": 40.8549377,
+    "longitude": -81.4309571,
+    "stars": 4.3,
+    "review_count": 4,
+    "categories": [
+      "Gyms",
+      "Cycling Classes"
+    ]
+  },
+  {
+    "business_id": "264IaUuLz2zBellIIIUcSQ",
+    "name": "Springside Racquet & Fitness Club",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44333",
+    "latitude": 41.1397247314453,
+    "longitude": -81.6435394287109,
+    "stars": 4.4,
+    "review_count": 5,
+    "categories": [
+      "Tennis",
+      "Fitness & Instruction",
+      "Recreation Centers"
+    ]
+  },
+  {
+    "business_id": "tFlWjeo_P9iLux2MLxtoLg",
+    "name": "Inner Circle Personal Fitness",
+    "city": "Wellington",
+    "state": "OH",
+    "postal_code": "44090",
+    "latitude": 41.153095,
+    "longitude": -82.218827,
+    "stars": 4,
+    "review_count": 2,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "ElrXmZtAzZM6k4YeZ1kppA",
+    "name": "Strongsville Fit Club",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44149",
+    "latitude": 41.3315963745117,
+    "longitude": -81.8571472167969,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "RHdhm5BGh06hjDFOGRm8Yg",
+    "name": "Tremont Athletic Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.48024,
+    "longitude": -81.69618,
+    "stars": 4.8,
+    "review_count": 40,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "KUiTw3i3RUc1JysJLl0V3A",
+    "name": "Perpetual Fitness",
+    "city": "Broadview Heights",
+    "state": "OH",
+    "postal_code": "44147",
+    "latitude": 41.314967,
+    "longitude": -81.683157,
+    "stars": 5,
+    "review_count": 10,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "2Baj9mAiVa2ihklPhU9PaQ",
+    "name": "The Lagree Method",
+    "city": "Dublin",
+    "state": "OH",
+    "postal_code": "43017",
+    "latitude": 40.1046156,
+    "longitude": -83.1566323,
+    "stars": 5,
+    "review_count": 13,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "zj11SAo7QEWC78O9c9Q47w",
+    "name": "Pulse Barre and Fitness- Uniontown, Ohio",
+    "city": "Uniontown",
+    "state": "OH",
+    "postal_code": "44685",
+    "latitude": 40.9495921,
+    "longitude": -81.466588,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Barre Classes",
+      "Cardio Classes",
+      "Cycling Classes"
+    ]
+  },
+  {
+    "business_id": "fhgslzbKxZ3JQ13MrsyObQ",
+    "name": "TrAk Athletics",
+    "city": "Fairlawn",
+    "state": "OH",
+    "postal_code": "44333",
+    "latitude": 41.128996,
+    "longitude": -81.607815,
+    "stars": 5,
+    "review_count": 6,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "RKEspL4UYetEOMO4CExLZw",
+    "name": "Draft Horse Strength & Conditioning",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44333",
+    "latitude": 41.18588,
+    "longitude": -81.63772,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Gyms",
+      "Weight Loss Centers",
+      "Nutritionists"
+    ]
+  },
+  {
+    "business_id": "gUZn5dcPkyHSB5FwGx-pcA",
+    "name": "Achieve Fitness",
+    "city": "Delaware",
+    "state": "OH",
+    "postal_code": "43015",
+    "latitude": 40.307137,
+    "longitude": -83.089119,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "LCJvKtI3Sq58Mvd6A9HV2Q",
+    "name": "The Gym",
+    "city": "Huron",
+    "state": "OH",
+    "postal_code": "44839",
+    "latitude": 41.3890288,
+    "longitude": -82.5433206,
+    "stars": 2.8,
+    "review_count": 5,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "JAeE760Wj4_SQ0nijgPwlA",
+    "name": "North Ridge Tennis and Golf Club",
+    "city": "North Ridgeville",
+    "state": "OH",
+    "postal_code": "44039",
+    "latitude": 41.40884,
+    "longitude": -81.98101,
+    "stars": 3,
+    "review_count": 2,
+    "categories": [
+      "Gyms",
+      "Tennis"
+    ]
+  },
+  {
+    "business_id": "WMYVx68sHSDRfJjcUsJbDg",
+    "name": "Marion Fitness Club",
+    "city": "Marion",
+    "state": "OH",
+    "postal_code": "43302",
+    "latitude": 40.5887794,
+    "longitude": -83.0959091,
+    "stars": 4.5,
+    "review_count": 2,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "g3cst-0Ik_xt73_4iPPudA",
+    "name": "RIPT Fitness",
+    "city": "Bainbridge",
+    "state": "OH",
+    "postal_code": "44023",
+    "latitude": 41.413602,
+    "longitude": -81.3405087,
+    "stars": 4.3,
+    "review_count": 9,
+    "categories": [
+      "Trainers",
+      "Weight Loss Centers"
+    ]
+  },
+  {
+    "business_id": "MtPGccjnKS-J3vO8VP0uvw",
+    "name": "Planet Fitness",
+    "city": "Ontario",
+    "state": "OH",
+    "postal_code": "44906",
+    "latitude": 40.77397915199612,
+    "longitude": -82.5923420255626,
+    "stars": 2.9,
+    "review_count": 15,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "IhXZv1u4p2KHyxaVPw6lxQ",
+    "name": "TITLE Boxing Club",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.460473,
+    "longitude": -81.959182,
+    "stars": 3.8,
+    "review_count": 22,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "90NRC9zU2G1IYoMxzEdF_g",
+    "name": "Planet Fitness",
+    "city": "Sandusky",
+    "state": "OH",
+    "postal_code": "44870",
+    "latitude": 41.41558304088691,
+    "longitude": -82.66930862523749,
+    "stars": 2.9,
+    "review_count": 16,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "16e107179D8EkUyFQOoOfQ",
+    "name": "Planet Fitness",
+    "city": "Lorain",
+    "state": "OH",
+    "postal_code": "44053",
+    "latitude": 41.41944057170005,
+    "longitude": -82.20327868453053,
+    "stars": 2.6,
+    "review_count": 9,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "38m1jkN8AqhH1_uySWxNcg",
+    "name": "Pure Barre",
+    "city": "Hudson",
+    "state": "OH",
+    "postal_code": "44236",
+    "latitude": 41.239478,
+    "longitude": -81.442248,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Barre Classes",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "8CVyLinJrqcOijFl9Z6vUA",
+    "name": "Anytime Fitness",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "postal_code": "43050",
+    "latitude": 40.4030991,
+    "longitude": -82.4482574,
+    "stars": 1,
+    "review_count": 7,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "qE2yUiAuHkuzimgczr5z1A",
+    "name": "GrooveRyde - Woodmere",
+    "city": "Woodmere",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.4619903,
+    "longitude": -81.4811782,
+    "stars": 4.8,
+    "review_count": 24,
+    "categories": [
+      "Cycling Classes",
+      "Boot Camps",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "EBEPTf65JW0CGc_7-MGS-A",
+    "name": "YMCA",
+    "city": "Wooster",
+    "state": "OH",
+    "postal_code": "44691",
+    "latitude": 40.83794,
+    "longitude": -81.948417,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Gyms"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "business_id": "eKjEkF8WdHWoKiD1kCcvZg",
+    "name": "Martial Arts Center For Mind Body Developement",
+    "city": "Medfield",
+    "state": "MA",
+    "postal_code": "02052",
+    "latitude": 42.1861376,
+    "longitude": -71.310574,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "ZWzgewJEJn14uY83vSRBxw",
+    "name": "Eric Menard's Complete Martial Arts Academy",
+    "city": "Nashua",
+    "state": "NH",
+    "postal_code": "03062",
+    "latitude": 42.712634803222926,
+    "longitude": -71.45456757379606,
+    "stars": 2.5,
+    "review_count": 2,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "7P_xOQFIZrHeV7qajegbxw",
+    "name": "Tombo Kai",
+    "city": "Providence",
+    "state": "RI",
+    "postal_code": "02919",
+    "latitude": 41.80433,
+    "longitude": -71.467,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Martial Arts"
+    ]
+  }
+]

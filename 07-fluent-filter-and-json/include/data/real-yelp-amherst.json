@@ -1,0 +1,724 @@
+[
+  {
+    "business_id": "oUcSEppn7vWLWBNOghx9JA",
+    "name": "Rolling Green Apartments",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.36205942909146,
+    "longitude": -72.48687559341496,
+    "stars": 4.7,
+    "review_count": 7,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "xq-HmzaqG9ddGU3vd5sXbQ",
+    "name": "Hawkins Meadow",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.366141042162,
+    "longitude": -72.5336013312133,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "4MiqPo_gv9IUJddVnj8LJg",
+    "name": "Windfield Family Estates",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.36236,
+    "longitude": -72.536209,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "tIDhURG3duNZAVCPfNHznQ",
+    "name": "Kendrick Place",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3809002,
+    "longitude": -72.5193142,
+    "stars": 2.8,
+    "review_count": 5,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "6EqqLI63D34W71ZXIZS4TQ",
+    "name": "Alpine Commons Apartment Homes",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.36878374318584,
+    "longitude": -72.4973259261821,
+    "stars": 3.3,
+    "review_count": 3,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "qNnOTnPzCvcB-t750JiT-w",
+    "name": "413 Lease",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3636749278387,
+    "longitude": -72.4881148055878,
+    "stars": 4,
+    "review_count": 4,
+    "categories": [
+      "Property Management",
+      "Real Estate Services"
+    ]
+  },
+  {
+    "business_id": "agDk5IA7I5qqC3M0iv4TLg",
+    "name": "One East Pleasant",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37919,
+    "longitude": -72.51959,
+    "stars": 1,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "TOPYl1iLjl2PRZA5m-6kiA",
+    "name": "The Boulders",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.350565,
+    "longitude": -72.527386,
+    "stars": 2.7,
+    "review_count": 18,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "zkV1rYRHvcLb8IJBjYJ5Uw",
+    "name": "Olympia Place",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.395565032959,
+    "longitude": -72.5106735229492,
+    "stars": 1,
+    "review_count": 2,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "b3UtiB6F1mBtaBgK5arpog",
+    "name": "Aspen Chase",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.374328,
+    "longitude": -72.506229,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "University Housing"
+    ]
+  },
+  {
+    "business_id": "q9BfURTc0xZQszOncUrUdQ",
+    "name": "Eagle Crest Property Management",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3638160813641,
+    "longitude": -72.4885547239426,
+    "stars": 1.1,
+    "review_count": 22,
+    "categories": [
+      "Property Management",
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "VApvijD4bgLAg5AkM9uR4g",
+    "name": "Puffton Village Apartments",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.4049365,
+    "longitude": -72.53448737486879,
+    "stars": 3,
+    "review_count": 2,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "iSSjdE31RdS6MbxK8UlMag",
+    "name": "Boltwood Place",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3763778249752,
+    "longitude": -72.5192527975864,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "JkAmtVX7OhCY2b9Fu6Hskw",
+    "name": "Lincoln Real Estate",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37611,
+    "longitude": -72.51953,
+    "stars": 2.4,
+    "review_count": 15,
+    "categories": [
+      "Real Estate Services",
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "mZokz37TaR5jFgMrx4WyFw",
+    "name": "Knight Associates Realty Inc",
+    "city": "Springfield",
+    "state": "MA",
+    "postal_code": "01108",
+    "latitude": 42.08575,
+    "longitude": -72.55436,
+    "stars": 5,
+    "review_count": 9,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "9gHKBc2JxwRrXP4IDDDjhg",
+    "name": "Mill Valley Estates",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.346571,
+    "longitude": -72.5270134009584,
+    "stars": 2.3,
+    "review_count": 4,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "TAzj4lAPDRo45CPRGMypbA",
+    "name": "Greenbaum Rentals",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.379265,
+    "longitude": -72.520812,
+    "stars": 2,
+    "review_count": 9,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "rY7qwLnR-TPlkUYWN5rJew",
+    "name": "Kamins Real Estate",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.373691194781294,
+    "longitude": -72.53171107749138,
+    "stars": 1.4,
+    "review_count": 27,
+    "categories": [
+      "Real Estate Services",
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "Cucxz0QRtTjNzmYSq2PCaA",
+    "name": "Brandywine Apartments",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.4068894,
+    "longitude": -72.5359314,
+    "stars": 2.3,
+    "review_count": 3,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "C67b5GLeuZFnMQ3wb6VLCg",
+    "name": "North Square Apartments at The Mill District",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.41528,
+    "longitude": -72.53127,
+    "stars": 1,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "a8n4uL48DbrP5GuCObyC8g",
+    "name": "VP Management",
+    "city": "Agawam",
+    "state": "MA",
+    "postal_code": "01001",
+    "latitude": 42.0874061722734,
+    "longitude": -72.62810487115016,
+    "stars": 4.1,
+    "review_count": 9,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "vzXigBiVd0htDXOR6Wt9Xw",
+    "name": "Pipeline Properties",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.372798551271295,
+    "longitude": -72.53166689999999,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "3tadajZr6_SRrzcp_-c3TA",
+    "name": "Rls Properties",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3788185,
+    "longitude": -72.5205383,
+    "stars": 1,
+    "review_count": 1,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "HDHB0wtWXg1J0OuaPkBE2Q",
+    "name": "Vesta Apartments Homes - University Crossing",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.36233,
+    "longitude": -72.53737,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "wKjrIxTpMYP8woXfuqLnXg",
+    "name": "Four Guys And A Truck",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37150614573025,
+    "longitude": -72.5338852,
+    "stars": 4.1,
+    "review_count": 20,
+    "categories": [
+      "Movers",
+      "Packing Services"
+    ]
+  },
+  {
+    "business_id": "gVGepvAxkRKtjnrBAq5t_g",
+    "name": "Fieldstone - Artisan",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01003",
+    "latitude": 42.38427227301994,
+    "longitude": -72.52640126441779,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "QCOinXdaM-UgFuTcHJfwNQ",
+    "name": "Kendrick Property Management",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.33908,
+    "longitude": -72.60768,
+    "stars": 2.5,
+    "review_count": 17,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "sfm8mAHKyIj8BN9FRqoPuw",
+    "name": "UMass Amherst",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01003",
+    "latitude": 42.38493,
+    "longitude": -72.53084,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "3tdyCC-2h7kVSucPCZzPrg",
+    "name": "Colonial Village Maintenance",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.36951,
+    "longitude": -72.50042,
+    "stars": 3,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "Z_Li7RFCQJvT1wioTpElUw",
+    "name": "Mill Hollow Apartments",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37487,
+    "longitude": -72.52012,
+    "stars": 1,
+    "review_count": 1,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "QArb6VUr92cgPSc-zYgIsQ",
+    "name": "Amherst Pick-Me-Ups",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.382053,
+    "longitude": -72.521362,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Food Delivery Services",
+      "Couriers & Delivery Services",
+      "Movers"
+    ]
+  },
+  {
+    "business_id": "hOyw-LwCX41TnWscm6xnZg",
+    "name": "Witman Properties",
+    "city": "Holyoke",
+    "state": "MA",
+    "postal_code": "01040",
+    "latitude": 42.203623,
+    "longitude": -72.6037209,
+    "stars": 2.6,
+    "review_count": 5,
+    "categories": [
+      "Property Management",
+      "Landscaping",
+      "Junk Removal & Hauling"
+    ]
+  },
+  {
+    "business_id": "HbaQqghmcjH8a41J9wZkMA",
+    "name": "Major Home Improvements",
+    "city": "Westfield",
+    "state": "MA",
+    "postal_code": "01085",
+    "latitude": 42.11493,
+    "longitude": -72.72566,
+    "stars": 5,
+    "review_count": 6,
+    "categories": [
+      "Roofing",
+      "Windows Installation",
+      "Decks & Railing"
+    ]
+  },
+  {
+    "business_id": "9NHWhU635oRTPgrefJwtvw",
+    "name": "Sears Property Management",
+    "city": "Springfield",
+    "state": "MA",
+    "postal_code": "01108",
+    "latitude": 42.083554933072186,
+    "longitude": -72.54434893067081,
+    "stars": 2.3,
+    "review_count": 3,
+    "categories": [
+      "Property Management"
+    ]
+  },
+  {
+    "business_id": "-zcVy7tdXKkxn9LDSYFBUQ",
+    "name": "Dan Gough Painting",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.377154,
+    "longitude": -72.506512,
+    "stars": 1,
+    "review_count": 3,
+    "categories": [
+      "Painters"
+    ]
+  },
+  {
+    "business_id": "3LhbvsAT7RxRrDx7nTFyfw",
+    "name": "Ideal Movers & Storage",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.349588074756305,
+    "longitude": -72.56297157790985,
+    "stars": 4.1,
+    "review_count": 37,
+    "categories": [
+      "Movers",
+      "Self Storage",
+      "Packing Supplies"
+    ]
+  },
+  {
+    "business_id": "enW1jkPV2nu37LmiOrw97g",
+    "name": "Townehouse of Amherst Apts",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.40867,
+    "longitude": -72.53428,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "rMQ-LdQ3Aiq-WdMNOmQq2w",
+    "name": "Southpoint Townhouses & Apartments",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.349126,
+    "longitude": -72.530612,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "wF2mRkyhMT46VtTWDSfOLQ",
+    "name": "Pioneer Cleaning",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3422067412339,
+    "longitude": -72.5210038981476,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Carpet Cleaning",
+      "Refinishing Services",
+      "Office Cleaning"
+    ]
+  },
+  {
+    "business_id": "nKfZ53DlXPqHrtaWQXi9bA",
+    "name": "Happy Valley VR",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.38056,
+    "longitude": -72.51815,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Real Estate Photography"
+    ]
+  },
+  {
+    "business_id": "1e7I7SX9ct6cQ1BhZIpg2Q",
+    "name": "Gilreath Manor",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.37611,
+    "longitude": -72.51953,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "tvu51oOQ7M8ATGe7aqPpJw",
+    "name": "North 116 Flats",
+    "city": "Sunderland",
+    "state": "MA",
+    "postal_code": "01375",
+    "latitude": 42.43012967293154,
+    "longitude": -72.54704799300697,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "QVUZDGlEMcrYQjc88_bGqw",
+    "name": "The Clean Chicks",
+    "city": "Longmeadow",
+    "state": "MA",
+    "postal_code": "01106",
+    "latitude": 42.04790020720585,
+    "longitude": -72.57175941061472,
+    "stars": 4.3,
+    "review_count": 12,
+    "categories": [
+      "Home Cleaning",
+      "Office Cleaning"
+    ]
+  },
+  {
+    "business_id": "7erdlEuVb41FkCURIeh9Jw",
+    "name": "EZS Carpet & Upholstery Cleaning",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.3744674,
+    "longitude": -72.5157289,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Carpet Cleaning",
+      "Damage Restoration"
+    ]
+  },
+  {
+    "business_id": "RSiTDX8ueKnGT4azEjW00A",
+    "name": "A To Z Moving and Storage",
+    "city": "West Springfield",
+    "state": "MA",
+    "postal_code": "01089",
+    "latitude": 42.099672645795856,
+    "longitude": -72.6023161,
+    "stars": 4,
+    "review_count": 8,
+    "categories": [
+      "Movers",
+      "Self Storage",
+      "Packing Supplies"
+    ]
+  },
+  {
+    "business_id": "dK0VzH5M7XEGYz6FwTxf2A",
+    "name": "Ideal Kitchens Home Improvement",
+    "city": "Chicopee",
+    "state": "MA",
+    "postal_code": "01020",
+    "latitude": 42.1775,
+    "longitude": -72.60143,
+    "stars": 3.2,
+    "review_count": 6,
+    "categories": [
+      "Windows Installation",
+      "Countertop Installation",
+      "Cabinetry"
+    ]
+  },
+  {
+    "business_id": "iWvffbNqMDzG065zeZ7Obg",
+    "name": "Village Park Apts",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.40576,
+    "longitude": -72.5147,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "67R4OxdMmd_R7Y06fMoHIw",
+    "name": "Windfield Senior Estates",
+    "city": "Hadley",
+    "state": "MA",
+    "postal_code": "01035",
+    "latitude": 42.3613701,
+    "longitude": -72.537323,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  },
+  {
+    "business_id": "4te3eSM1Pdr7iLsMRVSVYw",
+    "name": "Talbert’s Moving & Hauling",
+    "city": "Springfield",
+    "state": "MA",
+    "postal_code": "01109",
+    "latitude": 42.118387,
+    "longitude": -72.54878,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Junk Removal & Hauling",
+      "Movers"
+    ]
+  },
+  {
+    "business_id": "V66Mgywa9kCsghXN_nsLvA",
+    "name": "Aspen Heights Amherst",
+    "city": "Amherst",
+    "state": "MA",
+    "postal_code": "01002",
+    "latitude": 42.36377,
+    "longitude": -72.53595,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Apartments"
+    ]
+  }
+]

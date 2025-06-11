@@ -1,0 +1,757 @@
+[
+  {
+    "business_id": "wVyXAZTFdQ5v5WJidisA0w",
+    "name": "Peter Welch's Gym",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02127",
+    "latitude": 42.33553195,
+    "longitude": -71.05741492331464,
+    "stars": 4.8,
+    "review_count": 83,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "O25bbQG5hwq1AzEyK41KVw",
+    "name": "Boston Boxing & Fitness",
+    "city": "Allston",
+    "state": "MA",
+    "postal_code": "02135",
+    "latitude": 42.35964,
+    "longitude": -71.1378619,
+    "stars": 4.8,
+    "review_count": 32,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "tFMSVejx5zP4AtGcCSZy4w",
+    "name": "Beantown Boxing",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.347754,
+    "longitude": -71.102827,
+    "stars": 4.9,
+    "review_count": 27,
+    "categories": [
+      "Boxing",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "3UOFFrFOBfcfM8ABaBM0VA",
+    "name": "Ally's Boxing Hub",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "postal_code": "02130",
+    "latitude": 42.3095434,
+    "longitude": -71.10498849999999,
+    "stars": 4.7,
+    "review_count": 10,
+    "categories": [
+      "Boxing",
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "LU_IkZLhyiEDWYS2_hNWAg",
+    "name": "EverybodyFights",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02210",
+    "latitude": 42.344280344868345,
+    "longitude": -71.02898448544438,
+    "stars": 4.4,
+    "review_count": 107,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "PwlQKWZJ3ZHMZGb7NCoC6g",
+    "name": "Nonantum Boxing Club",
+    "city": "Newton",
+    "state": "MA",
+    "postal_code": "02458",
+    "latitude": 42.361094017256,
+    "longitude": -71.2040456908591,
+    "stars": 4.7,
+    "review_count": 14,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "CbNdZ3_jJvZHq0o3np_XJA",
+    "name": "UFC GYM Boston Financial District",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02111",
+    "latitude": 42.3519038504094,
+    "longitude": -71.0580715826874,
+    "stars": 4.2,
+    "review_count": 46,
+    "categories": [
+      "Martial Arts",
+      "Gyms",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "mlBXViMT58r1OoFuAni2Iw",
+    "name": "EverybodyFights FiDi",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02110",
+    "latitude": 42.3561065,
+    "longitude": -71.0568336,
+    "stars": 4.5,
+    "review_count": 25,
+    "categories": [
+      "Fitness/Exercise Equipment",
+      "Gyms",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "PpUyFw8CodzrsP6-9trdDg",
+    "name": "Florian Martial Arts Center",
+    "city": "Brookline",
+    "state": "MA",
+    "postal_code": "02445",
+    "latitude": 42.33508297119541,
+    "longitude": -71.12000203254566,
+    "stars": 4.4,
+    "review_count": 27,
+    "categories": [
+      "Boxing",
+      "Kickboxing",
+      "Brazilian Jiu-jitsu"
+    ]
+  },
+  {
+    "business_id": "klSctpdd_EDHRq9rBGcngw",
+    "name": "Combat Sports Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02114",
+    "latitude": 42.3650398254395,
+    "longitude": -71.0614471435547,
+    "stars": 4,
+    "review_count": 5,
+    "categories": [
+      "Sports Clubs",
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "oiwmKO9DU1pVQiDqRQz0dQ",
+    "name": "The Training Room",
+    "city": "Somerville",
+    "state": "MA",
+    "postal_code": "02143",
+    "latitude": 42.38560330157771,
+    "longitude": -71.1131715,
+    "stars": 4.9,
+    "review_count": 51,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "Qdp39yK3caz4X2nBzwKylQ",
+    "name": "Invictus Boston - Fenway",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.346112,
+    "longitude": -71.099559,
+    "stars": 4.6,
+    "review_count": 34,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "6k9aIyS1UioJDBkPh3k-tA",
+    "name": "Champions Kickboxing",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02118",
+    "latitude": 42.34236,
+    "longitude": -71.06734,
+    "stars": 4,
+    "review_count": 4,
+    "categories": [
+      "Kickboxing",
+      "Gyms",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "q0aHKuh4wAlBsOVw6V9TYg",
+    "name": "TITLE Boxing Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "latitude": 42.3482383,
+    "longitude": -71.086611,
+    "stars": 2.6,
+    "review_count": 39,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "3sJ77WmVf--iOKZscV2VRg",
+    "name": "TMX Boxing Academy",
+    "city": "Quincy",
+    "state": "MA",
+    "postal_code": "02169",
+    "latitude": 42.23780587926085,
+    "longitude": -71.00357682701073,
+    "stars": 4.8,
+    "review_count": 12,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "X56Ux7aIH5unDZfkepUZ_w",
+    "name": "Boston Ultimate Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02111",
+    "latitude": 42.351583,
+    "longitude": -71.0613815,
+    "stars": 4.9,
+    "review_count": 10,
+    "categories": [
+      "Martial Arts",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "-bnOk6lLomy7vBQOPMbBfw",
+    "name": "Total Performance Sports",
+    "city": "Malden",
+    "state": "MA",
+    "postal_code": "02148",
+    "latitude": 42.42115175818724,
+    "longitude": -71.0701429742978,
+    "stars": 4.5,
+    "review_count": 11,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "qNupFrosIfn7ZZW4vvG4Mg",
+    "name": "TITLE Boxing Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02114",
+    "latitude": 42.3667029,
+    "longitude": -71.0590638,
+    "stars": 3.3,
+    "review_count": 41,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "m6I70_73LRkUOvXGEvHBzw",
+    "name": "Roshankish Martial Arts Center",
+    "city": "Medford",
+    "state": "MA",
+    "postal_code": "02155",
+    "latitude": 42.40454,
+    "longitude": -71.108,
+    "stars": 5,
+    "review_count": 21,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "pErF8wn0HMBB2nPZfkRi1A",
+    "name": "Krav Maga Boston",
+    "city": "Malden",
+    "state": "MA",
+    "postal_code": "02148",
+    "latitude": 42.4273109436035,
+    "longitude": -71.0709075927734,
+    "stars": 4.6,
+    "review_count": 21,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "eV7ge7vubonxLr3XYAq24w",
+    "name": "BURN Fitness Studios",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02118",
+    "latitude": 42.3413863778114,
+    "longitude": -71.0808489471674,
+    "stars": 4.7,
+    "review_count": 58,
+    "categories": [
+      "Boot Camps",
+      "Cycling Classes",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "AO3SxUOnIpQnc83fS0GtRg",
+    "name": "Wai Kru Mixed Martial Arts",
+    "city": "Allston",
+    "state": "MA",
+    "postal_code": "02134",
+    "latitude": 42.35318,
+    "longitude": -71.1359,
+    "stars": 3.7,
+    "review_count": 19,
+    "categories": [
+      "Boxing",
+      "Brazilian Jiu-jitsu"
+    ]
+  },
+  {
+    "business_id": "rSjnknHAhEI7Vo8bqSBGVw",
+    "name": "J.E.T. Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.343939,
+    "longitude": -71.077971,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "4HJHbcKIeEsmdhZi_o6UvA",
+    "name": "Hard Knocks Muay Thai & MMA",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02136",
+    "latitude": 42.251818,
+    "longitude": -71.128556,
+    "stars": 5,
+    "review_count": 8,
+    "categories": [
+      "Muay Thai"
+    ]
+  },
+  {
+    "business_id": "nMU1B0mQK1vyeDyU4BP0Ig",
+    "name": "STC Boxing & Fitness",
+    "city": "Waltham",
+    "state": "MA",
+    "postal_code": "02453",
+    "latitude": 42.383,
+    "longitude": -71.20563,
+    "stars": 5,
+    "review_count": 9,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "mjWIOazT_WMilgw677AavQ",
+    "name": "JP Martial Arts Academy",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02130",
+    "latitude": 42.3225594,
+    "longitude": -71.1080399,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "p1TWC9QakyKm9azbsedSng",
+    "name": "Warrior Fitness South Bay",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02125",
+    "latitude": 42.3254858,
+    "longitude": -71.0628232,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Martial Arts",
+      "Boxing",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "ZxwVyFGywTXwFE3OVTUp-A",
+    "name": "Lynx Fitness Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.35082999629683,
+    "longitude": -71.06988264047547,
+    "stars": 4.5,
+    "review_count": 42,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Golf Lessons"
+    ]
+  },
+  {
+    "business_id": "FXF2a_iORLa6RUlK4gQo4Q",
+    "name": "Bartolo's Boxing Club",
+    "city": "Winthrop",
+    "state": "MA",
+    "postal_code": "02152",
+    "latitude": 42.3711617354067,
+    "longitude": -70.9702215979911,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Boxing",
+      "Muay Thai",
+      "Cardio Classes"
+    ]
+  },
+  {
+    "business_id": "jIB7mBF2N7jPFGiXdcPFJQ",
+    "name": "Broadway Jiu-Jitsu",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02127",
+    "latitude": 42.34261578188944,
+    "longitude": -71.05632252944689,
+    "stars": 4.3,
+    "review_count": 19,
+    "categories": [
+      "Gyms",
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "yz3TWsHM_X68BGjgpq9Kjw",
+    "name": "Firicano Boxing & Fitness Center",
+    "city": "Stoneham",
+    "state": "MA",
+    "postal_code": "02180",
+    "latitude": 42.479536,
+    "longitude": -71.1004605,
+    "stars": 4.9,
+    "review_count": 10,
+    "categories": [
+      "Trainers",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "I4ixVMDf4P5iJa6XbgnLrg",
+    "name": "Barry's Bootcamp",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02111",
+    "latitude": 42.3539881,
+    "longitude": -71.0598624,
+    "stars": 4.3,
+    "review_count": 95,
+    "categories": [
+      "Boot Camps",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "oUyjLAjbheRazbD3ToQQaw",
+    "name": "Fitness Advantage - FA Boxing",
+    "city": "Wellesley",
+    "state": "MA",
+    "postal_code": "02481",
+    "latitude": 42.3249702,
+    "longitude": -71.2595331,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Boxing",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "hCB3GdYEvaWVjDF9MbeDHA",
+    "name": "TITLE Boxing Club",
+    "city": "Burlington",
+    "state": "MA",
+    "postal_code": "01803",
+    "latitude": 42.48579,
+    "longitude": -71.21979,
+    "stars": 4.5,
+    "review_count": 15,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "asr5DTCeQsnf6dpmeevUMw",
+    "name": "13 Strikes Boxing & Fitness",
+    "city": "Woburn",
+    "state": "MA",
+    "postal_code": "01801",
+    "latitude": 42.4939048,
+    "longitude": -71.1259611,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Boxing",
+      "Boot Camps",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "w9J2DuXVGoZDhIk97Bd1TA",
+    "name": "Nolan Bros Boxing and Fitness",
+    "city": "Waltham",
+    "state": "MA",
+    "postal_code": "02453",
+    "latitude": 42.37107,
+    "longitude": -71.24441,
+    "stars": 5,
+    "review_count": 12,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "cM-V5kMe0rgjDEWnvZvYhg",
+    "name": "Crossfit Coolidge Corner",
+    "city": "Brookline",
+    "state": "MA",
+    "postal_code": "02446",
+    "latitude": 42.3367935182652,
+    "longitude": -71.1200808922985,
+    "stars": 5,
+    "review_count": 24,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "QGZtn5QnXRSSMex03jtqJA",
+    "name": "Fitness Elite Training Center",
+    "city": "Needham",
+    "state": "MA",
+    "postal_code": "02494",
+    "latitude": 42.3060129,
+    "longitude": -71.2298495,
+    "stars": 3.4,
+    "review_count": 5,
+    "categories": [
+      "Trainers",
+      "Gymnastics",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "frrN6_NcOjKmHH6ogdACJQ",
+    "name": "Swet Studio",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3459066,
+    "longitude": -71.0691063,
+    "stars": 4.6,
+    "review_count": 109,
+    "categories": [
+      "Aerial Fitness",
+      "Meditation Centers"
+    ]
+  },
+  {
+    "business_id": "B_xpRpCrnfXd8jUfxVeTKA",
+    "name": "CLIENTEL3",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.35146,
+    "longitude": -71.07151,
+    "stars": 4.8,
+    "review_count": 35,
+    "categories": [
+      "Trainers",
+      "Nutritionists",
+      "Physical Therapy"
+    ]
+  },
+  {
+    "business_id": "O0c-TiS3cSddlZdiWOKKIg",
+    "name": "Mike's Fitness",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "postal_code": "02130",
+    "latitude": 42.314493,
+    "longitude": -71.10379,
+    "stars": 3.5,
+    "review_count": 100,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "ZUq7Bii1yxARrATNEdFs4Q",
+    "name": "Sweat Box",
+    "city": "Brighton",
+    "state": "MA",
+    "postal_code": "02135",
+    "latitude": 42.34005785377757,
+    "longitude": -71.15372285599692,
+    "stars": 3.8,
+    "review_count": 4,
+    "categories": [
+      "Boxing",
+      "Kickboxing",
+      "Chinese Martial Arts"
+    ]
+  },
+  {
+    "business_id": "lLEw0A0yec8b35l1yoxSAw",
+    "name": "Brazilian Top Team Boston",
+    "city": "Everett",
+    "state": "MA",
+    "postal_code": "02149",
+    "latitude": 42.403357,
+    "longitude": -71.0587264,
+    "stars": 4.5,
+    "review_count": 8,
+    "categories": [
+      "Brazilian Jiu-jitsu",
+      "Boxing",
+      "Self-defense Classes"
+    ]
+  },
+  {
+    "business_id": "XwXZ12U5JQaiSLI7byXuQg",
+    "name": "Invictus Boston - Columbus",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.34853,
+    "longitude": -71.07241,
+    "stars": 4.3,
+    "review_count": 28,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "-s-v7HRmmOiNZJ2bDehicQ",
+    "name": "Soul Train Fitness",
+    "city": "Somerville",
+    "state": "MA",
+    "postal_code": "02144",
+    "latitude": 42.4035862,
+    "longitude": -71.1281394,
+    "stars": 4.7,
+    "review_count": 50,
+    "categories": [
+      "Trainers",
+      "Yoga",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "-cYtgfH3EErpvSMZhkYakQ",
+    "name": "North Shore Muay Thai Academy",
+    "city": "Lynn",
+    "state": "MA",
+    "postal_code": "01930",
+    "latitude": 42.45824,
+    "longitude": -70.97392,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boxing",
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "rTO2LV43rwFLIM-gmg130w",
+    "name": "VIM Fitness",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02139",
+    "latitude": 42.3650684,
+    "longitude": -71.1025856,
+    "stars": 3.9,
+    "review_count": 87,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "JRPu65Va6DJ-FwuBYO7LhA",
+    "name": "Rumble Boxing",
+    "city": "Somerville",
+    "state": "MA",
+    "postal_code": "02145",
+    "latitude": 42.390872,
+    "longitude": -71.080735,
+    "stars": 3,
+    "review_count": 2,
+    "categories": [
+      "Boxing",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "25IQNB6eiMhJFw3icat_0g",
+    "name": "Beacon Hill Athletic Club",
+    "city": "Brighton",
+    "state": "MA",
+    "postal_code": "02135",
+    "latitude": 42.34128,
+    "longitude": -71.14587,
+    "stars": 3.9,
+    "review_count": 127,
+    "categories": [
+      "Fitness & Instruction"
+    ]
+  },
+  {
+    "business_id": "98lSPHFSryEmMpTQi7bitg",
+    "name": "Cambridge YMCA",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02139",
+    "latitude": 42.36677,
+    "longitude": -71.10667,
+    "stars": 3.5,
+    "review_count": 73,
+    "categories": [
+      "Gyms",
+      "Preschools"
+    ]
+  }
+]

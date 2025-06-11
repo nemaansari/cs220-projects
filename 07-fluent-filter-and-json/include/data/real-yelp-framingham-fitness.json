@@ -1,0 +1,759 @@
+[
+  {
+    "business_id": "2HEGEScREWLpcOvWBjhTig",
+    "name": "Life Time",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.31312,
+    "longitude": -71.39487123264621,
+    "stars": 2.5,
+    "review_count": 94,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "S1-DtnarWuObVk777H4RGQ",
+    "name": "Framingham Fitness",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.2988259,
+    "longitude": -71.4050112,
+    "stars": 3.8,
+    "review_count": 6,
+    "categories": [
+      "Trainers",
+      "Nutritionists"
+    ]
+  },
+  {
+    "business_id": "_ji4f8Klw8HHG4XepFceWg",
+    "name": "HIIT Kickboxing",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.2874015,
+    "longitude": -71.3508769,
+    "stars": 4.8,
+    "review_count": 9,
+    "categories": [
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "qo-ydnNTYVxQ5XeX5B0QJw",
+    "name": "Impact Metrowest",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.3227627,
+    "longitude": -71.3992661,
+    "stars": 4.8,
+    "review_count": 38,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "u2b-ggNHo3GNKIfybPlTKQ",
+    "name": "LA Fitness",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.2972198335941,
+    "longitude": -71.3857284984327,
+    "stars": 2.6,
+    "review_count": 111,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "T_V2S-rziFNHulbiszWLFA",
+    "name": "Focus On Fitness",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.2423,
+    "longitude": -71.43324,
+    "stars": 4.7,
+    "review_count": 17,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "4SyA_jcdu-28Mq9xnmY3Mw",
+    "name": "Every Body Balance",
+    "city": "Southborough",
+    "state": "MA",
+    "postal_code": "01772",
+    "latitude": 42.29180927517301,
+    "longitude": -71.51308880323852,
+    "stars": 4.8,
+    "review_count": 12,
+    "categories": [
+      "Yoga",
+      "Pilates",
+      "Barre Classes"
+    ]
+  },
+  {
+    "business_id": "w9HnyPsEV8HtnTuD0dcywA",
+    "name": "METfit",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.28258,
+    "longitude": -71.38958,
+    "stars": 3.5,
+    "review_count": 15,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "iDdKSCJNiYnUo2bGjD7C5g",
+    "name": "Club Pilates",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01702",
+    "latitude": 42.29775,
+    "longitude": -71.40536,
+    "stars": 3.5,
+    "review_count": 12,
+    "categories": [
+      "Pilates",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "KyF9tgwq2tczZ1Elol5-uw",
+    "name": "UpperKuts Boxing Club",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.2625313,
+    "longitude": -71.4668121,
+    "stars": 5,
+    "review_count": 8,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Cardio Classes"
+    ]
+  },
+  {
+    "business_id": "5AQdBzdSjKH0f4jiKHpSZA",
+    "name": "btone FITNESS Wayland",
+    "city": "Wayland",
+    "state": "MA",
+    "postal_code": "01778",
+    "latitude": 42.36464,
+    "longitude": -71.36825,
+    "stars": 5,
+    "review_count": 11,
+    "categories": [
+      "Pilates",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "jnjXku0GIJjM6a_RxkIHwg",
+    "name": "Pure Barre",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.3596151921566,
+    "longitude": -71.4212647674529,
+    "stars": 3,
+    "review_count": 5,
+    "categories": [
+      "Barre Classes",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "K_lAvyNdL7U1sWVk1Yq87g",
+    "name": "Anytime Fitness",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01702",
+    "latitude": 42.2970794705171,
+    "longitude": -71.4477946354572,
+    "stars": 3,
+    "review_count": 25,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "NiNURZ5ib-h4I3AAV8mN8w",
+    "name": "Achieve Fitness With Rachel",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.306943,
+    "longitude": -71.451885,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "lQneXZa4Z_TMD8Cp4KGAAQ",
+    "name": "Common Ground Yoga",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.300695,
+    "longitude": -71.434275,
+    "stars": 4.5,
+    "review_count": 30,
+    "categories": [
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "sBZMkXaKOTgdCdocq1JPjA",
+    "name": "Duddy Performance",
+    "city": "Sudbury",
+    "state": "MA",
+    "postal_code": "01776",
+    "latitude": 42.36097003737142,
+    "longitude": -71.40342944647861,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "KKgVu5MTXazsU_e6flgiZg",
+    "name": "Orangetheory Fitness Natick",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.2842356245778,
+    "longitude": -71.3476083042281,
+    "stars": 4.6,
+    "review_count": 16,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "vD0naNsQE9my_Fj8glwLRA",
+    "name": "DanceFIT Studio",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.28671,
+    "longitude": -71.336839,
+    "stars": 4.7,
+    "review_count": 17,
+    "categories": [
+      "Barre Classes",
+      "Yoga",
+      "Dance Studios"
+    ]
+  },
+  {
+    "business_id": "cngmyEO-sqzNKOldkLB6_A",
+    "name": "TJX Gym",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.310550559393,
+    "longitude": -71.3796356320381,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "R0X2ZlBNZ6HQ87Buh3fycg",
+    "name": "Bancroft Boxing",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.28464263163615,
+    "longitude": -71.3479244143369,
+    "stars": 4.8,
+    "review_count": 17,
+    "categories": [
+      "Boxing",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "2jTXer-J0s1GQq4wSUrb6g",
+    "name": "Longfellow Tennis & Health Club Wayland",
+    "city": "Wayland",
+    "state": "MA",
+    "postal_code": "01778",
+    "latitude": 42.365506,
+    "longitude": -71.388773,
+    "stars": 3.4,
+    "review_count": 31,
+    "categories": [
+      "Gyms",
+      "Tennis",
+      "Nutritionists"
+    ]
+  },
+  {
+    "business_id": "FqinMEGB2xxljlFKlJB81A",
+    "name": "Todos Dance & Fitness Studio",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.301574,
+    "longitude": -71.351142,
+    "stars": 4.4,
+    "review_count": 7,
+    "categories": [
+      "Dance Studios",
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "E9yBOMhDb2X0TxbFZJCRNQ",
+    "name": "Let's Transform Together",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.284824,
+    "longitude": -71.346608,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Yoga",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "Vn39wBOfouYJfr8mt59ufw",
+    "name": "Longfellow Health Clubs - Natick",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.31422730006094,
+    "longitude": -71.3369127830305,
+    "stars": 3.2,
+    "review_count": 20,
+    "categories": [
+      "Gyms",
+      "Tennis",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "hqlyygvjxxI1mRP9Ftu7mw",
+    "name": "Planet Fitness",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.28273319382031,
+    "longitude": -71.38521922465732,
+    "stars": 2.7,
+    "review_count": 96,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "rdob120n_ZEGvu-5UGvfJg",
+    "name": "AliKat Moves",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.3227882,
+    "longitude": -71.3992233,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Dance Studios"
+    ]
+  },
+  {
+    "business_id": "lpM6TMH-oGthXw6odq3WUw",
+    "name": "Fitness Together",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.24957,
+    "longitude": -71.42602,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "NaXrTdwIBUTfCArUAYuNzw",
+    "name": "The FieldHouse",
+    "city": "Sudbury",
+    "state": "MA",
+    "postal_code": "01776",
+    "latitude": 42.362918,
+    "longitude": -71.427237,
+    "stars": 2.7,
+    "review_count": 7,
+    "categories": [
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "_zUUFj0cj9AGupGpe-WOJw",
+    "name": "Get In Shape For Women - Sudbury",
+    "city": "Sudbury",
+    "state": "MA",
+    "postal_code": "01776",
+    "latitude": 42.364866,
+    "longitude": -71.421281,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Trainers",
+      "Nutritionists",
+      "Cardio Classes"
+    ]
+  },
+  {
+    "business_id": "DutdG1e8YKjpYzZSaJs7iQ",
+    "name": "CrossFit Synergistics",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.2621633,
+    "longitude": -71.4664677,
+    "stars": 4.2,
+    "review_count": 14,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "ipjkMAe9SqSfs9FvIuN_oA",
+    "name": "Peloton Boston",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.302419,
+    "longitude": -71.383829,
+    "stars": 3,
+    "review_count": 6,
+    "categories": [
+      "Fitness/Exercise Equipment",
+      "Cycling Classes",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "EqhO0sIiwTRLdGNcmv3khQ",
+    "name": "Crossfit Tilt",
+    "city": "Southborough",
+    "state": "MA",
+    "postal_code": "01772",
+    "latitude": 42.266409,
+    "longitude": -71.508263,
+    "stars": 5,
+    "review_count": 7,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "HD1eK9XOz70YTZt5VJ77KA",
+    "name": "Club Elevate",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.29904,
+    "longitude": -71.48139,
+    "stars": 4.5,
+    "review_count": 2,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "WFWRebs0wuXQ-qHbVpD2BQ",
+    "name": "Rumble Boxing",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.30171097930287,
+    "longitude": -71.38322432107898,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Boxing",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "sJ0pSKuwmxTfdzrydNrIVw",
+    "name": "Mystic Fitness Yoga Studio",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.30065,
+    "longitude": -71.4321499,
+    "stars": 4.3,
+    "review_count": 29,
+    "categories": [
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "3QcVCNSnMNUf3ZYqHg3i6g",
+    "name": "Encompass Fitness",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.25871823460121,
+    "longitude": -71.4568321327464,
+    "stars": 2.8,
+    "review_count": 10,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "zOXqjwNHVW1geOpN4SrrVg",
+    "name": "Cross Courts Squash & Fitness",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.3150297334869,
+    "longitude": -71.3340343616241,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Sports Clubs",
+      "Fitness & Instruction",
+      "Squash"
+    ]
+  },
+  {
+    "business_id": "XylYqpBcu87pmqJ47nRN5Q",
+    "name": "Fitness Together",
+    "city": "Sudbury",
+    "state": "MA",
+    "postal_code": "01776",
+    "latitude": 42.35984,
+    "longitude": -71.42213,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "K6BUjUWP6ymUeZ2qHnGGxA",
+    "name": "Metrowest YMCA - Framingham Division",
+    "city": "Framingham",
+    "state": "MA",
+    "postal_code": "01701",
+    "latitude": 42.30783,
+    "longitude": -71.40205,
+    "stars": 3.1,
+    "review_count": 34,
+    "categories": [
+      "Child Care & Day Care",
+      "Gyms",
+      "Day Camps"
+    ]
+  },
+  {
+    "business_id": "0BXDH_vGQ-m8f5be0gZrYg",
+    "name": "FitFusion Athlete",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.314665967347395,
+    "longitude": -71.3335401,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boxing",
+      "Trainers",
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "p8tBecW1YZzN9yBpt7Y4Tw",
+    "name": "PRIME Fitness and Nutrition",
+    "city": "Wayland",
+    "state": "MA",
+    "postal_code": "01778",
+    "latitude": 42.3213099,
+    "longitude": -71.36375,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Nutritionists"
+    ]
+  },
+  {
+    "business_id": "gXI7RErNq2JjwIuaevKt5Q",
+    "name": "Nutrition Education and Wellness Service",
+    "city": "Wayland",
+    "state": "MA",
+    "postal_code": "01778",
+    "latitude": 42.3168982,
+    "longitude": -71.362332,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Nutritionists",
+      "Weight Loss Centers",
+      "Reiki"
+    ]
+  },
+  {
+    "business_id": "078fSZsroeN7J9Rb8W8uJA",
+    "name": "Revolution Martial Fitness",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.2819808,
+    "longitude": -71.3895945,
+    "stars": 4.6,
+    "review_count": 11,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "W-oxzQ1Ubd4Cl8FafVvFSw",
+    "name": "Anytime Fitness",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.2413306,
+    "longitude": -71.4317683,
+    "stars": 3.1,
+    "review_count": 60,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "qQKe_MMawKvAJ5kUSCjy2w",
+    "name": "Au Pilates & Fitness",
+    "city": "Sudbury",
+    "state": "MA",
+    "postal_code": "01776",
+    "latitude": 42.363930612441386,
+    "longitude": -71.4573475,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "u0ZgROAHwco8zTdHMOHD4A",
+    "name": "Fitness Together",
+    "city": "Southborough",
+    "state": "MA",
+    "postal_code": "01772",
+    "latitude": 42.296689,
+    "longitude": -71.4961325,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "mZ2IuKist5qWP3cNbXn9ug",
+    "name": "Daybreak Crossfit",
+    "city": "Wayland",
+    "state": "MA",
+    "postal_code": "01778",
+    "latitude": 42.3634653992624,
+    "longitude": -71.3879944513817,
+    "stars": 5,
+    "review_count": 7,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "tCA_Dw2oVHtifSIc5Ee7yw",
+    "name": "Athletic Strength Training",
+    "city": "Ashland",
+    "state": "MA",
+    "postal_code": "01721",
+    "latitude": 42.254077,
+    "longitude": -71.453476,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Trainers",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "QwvHwDsaLcv315BofDG72w",
+    "name": "Fitness Together",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.2856,
+    "longitude": -71.34669,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "XoUhjr8ZhGi0xdoJuPX5rA",
+    "name": "KOHR Golf",
+    "city": "Natick",
+    "state": "MA",
+    "postal_code": "01760",
+    "latitude": 42.289143,
+    "longitude": -71.37785,
+    "stars": 3.7,
+    "review_count": 17,
+    "categories": [
+      "Golf",
+      "Golf Lessons"
+    ]
+  }
+]

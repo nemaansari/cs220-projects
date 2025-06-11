@@ -1,0 +1,757 @@
+[
+  {
+    "business_id": "ZxwVyFGywTXwFE3OVTUp-A",
+    "name": "Lynx Fitness Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.35082999629683,
+    "longitude": -71.06988264047547,
+    "stars": 4.5,
+    "review_count": 42,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Golf Lessons"
+    ]
+  },
+  {
+    "business_id": "Iftn89amEiaXRd1WKXLauQ",
+    "name": "Healthworks Fitness Centers - Back Bay",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3486374,
+    "longitude": -71.07588904152647,
+    "stars": 3.9,
+    "review_count": 196,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "K7fKprF5hphkIliwmx8djg",
+    "name": "Beacon Hill Athletic Clubs",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02114",
+    "latitude": 42.360964,
+    "longitude": -71.06463334205958,
+    "stars": 4.3,
+    "review_count": 30,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "6O3naVAWpkMIuOTK3_UA4g",
+    "name": "Equinox Dartmouth",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.34683,
+    "longitude": -71.07542,
+    "stars": 3.3,
+    "review_count": 157,
+    "categories": [
+      "Gyms",
+      "Day Spas",
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "cZOzUfwPz8ANog-8nWzhRw",
+    "name": "Btone Fitness - Back Bay",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.35204,
+    "longitude": -71.07259,
+    "stars": 4.6,
+    "review_count": 237,
+    "categories": [
+      "Pilates",
+      "Circuit Training Gyms",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "SksM8tYBTwDcl0FQ6-Lz3w",
+    "name": "Lifted Fitness & Performance",
+    "city": "South Boston",
+    "state": "MA",
+    "postal_code": "02127",
+    "latitude": 42.3390509,
+    "longitude": -71.0372873,
+    "stars": 5,
+    "review_count": 40,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "wVyXAZTFdQ5v5WJidisA0w",
+    "name": "Peter Welch's Gym",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02127",
+    "latitude": 42.33553195,
+    "longitude": -71.05741492331464,
+    "stars": 4.8,
+    "review_count": 83,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "HGjEL7S21GkvzLZFl4P4BQ",
+    "name": "Huntington Avenue YMCA",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "latitude": 42.3407247077501,
+    "longitude": -71.087413665289,
+    "stars": 3.5,
+    "review_count": 81,
+    "categories": [
+      "Gyms",
+      "Child Care & Day Care"
+    ]
+  },
+  {
+    "business_id": "u-JVeI8Ttye05cDR1dTuGw",
+    "name": "GymIt",
+    "city": "Brookline",
+    "state": "MA",
+    "postal_code": "02446",
+    "latitude": 42.3510441,
+    "longitude": -71.1170821,
+    "stars": 4,
+    "review_count": 179,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "KMxPizVCvRSVzZuIl7e5Eg",
+    "name": "South End Fitness Center",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02118",
+    "latitude": 42.334328,
+    "longitude": -71.075595,
+    "stars": 3.9,
+    "review_count": 17,
+    "categories": [
+      "Gyms",
+      "Swimming Pools",
+      "Basketball Courts"
+    ]
+  },
+  {
+    "business_id": "O0c-TiS3cSddlZdiWOKKIg",
+    "name": "Mike's Fitness",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "postal_code": "02130",
+    "latitude": 42.314493,
+    "longitude": -71.10379,
+    "stars": 3.5,
+    "review_count": 100,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "hr4eYCWbFyY9UELYknbHoQ",
+    "name": "Planet Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02108",
+    "latitude": 42.35595,
+    "longitude": -71.06118,
+    "stars": 2.4,
+    "review_count": 110,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "gEHVg4ZEfQ5kFwROpVsbyg",
+    "name": "BCYF Curtis Hall Community Center",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "postal_code": "02130",
+    "latitude": 42.308849,
+    "longitude": -71.114856,
+    "stars": 4.1,
+    "review_count": 17,
+    "categories": [
+      "Gyms",
+      "Swimming Pools",
+      "Community Centers"
+    ]
+  },
+  {
+    "business_id": "37jNprFs5eS7sHwqllcSrA",
+    "name": "Cambridge Athletic Club",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02142",
+    "latitude": 42.36422,
+    "longitude": -71.07854,
+    "stars": 3.9,
+    "review_count": 98,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "fc2vKRX4yDnYVTmQaOXvsQ",
+    "name": "The University Club of Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.348586,
+    "longitude": -71.074756,
+    "stars": 3.7,
+    "review_count": 7,
+    "categories": [
+      "Gyms",
+      "Swimming Pools",
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "kPAZKuvUhC-90TkwlLX90Q",
+    "name": "Life Time",
+    "city": "Westwood",
+    "state": "MA",
+    "postal_code": "02090",
+    "latitude": 42.20074,
+    "longitude": -71.1570685380205,
+    "stars": 2.9,
+    "review_count": 106,
+    "categories": [
+      "Gyms",
+      "Swimming Pools",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "YS9H1XGCWauFlxhpfDCZDw",
+    "name": "Equinox Sports Club Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02111",
+    "latitude": 42.353188097477,
+    "longitude": -71.0627581179142,
+    "stars": 3.2,
+    "review_count": 117,
+    "categories": [
+      "Gyms",
+      "Sports Clubs",
+      "Day Spas"
+    ]
+  },
+  {
+    "business_id": "Rt0tSC7mBnrLqJ7rAmgZtw",
+    "name": "Titanium Health & Fitness",
+    "city": "Brookline",
+    "state": "MA",
+    "postal_code": "02445",
+    "latitude": 42.3353923,
+    "longitude": -71.1199512,
+    "stars": 4.6,
+    "review_count": 10,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "KChYT32vHZphY-jAjvj5dQ",
+    "name": "Studio 617",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3507143,
+    "longitude": -71.0762,
+    "stars": 5,
+    "review_count": 10,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "2xO3e0H3xc_6ibi1Og3fSw",
+    "name": "BU FitRec",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.35147434897307,
+    "longitude": -71.11639570320595,
+    "stars": 4.1,
+    "review_count": 59,
+    "categories": [
+      "Trainers",
+      "Yoga",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "ldwtHlolZk2AfGq578tfVA",
+    "name": "New York Sports Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.35109,
+    "longitude": -71.07475,
+    "stars": 2.4,
+    "review_count": 10,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "EIXz-wvJz2MDC_c8D7KwGg",
+    "name": "BodyScapes Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "latitude": 42.338847,
+    "longitude": -71.103277,
+    "stars": 2.8,
+    "review_count": 32,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "Gzl16UMERODUDC-zikV8QA",
+    "name": "REPS Fitness Studio",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02114",
+    "latitude": 42.3609034185814,
+    "longitude": -71.0689443604207,
+    "stars": 4.3,
+    "review_count": 15,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "Qdp39yK3caz4X2nBzwKylQ",
+    "name": "Invictus Boston - Fenway",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.346112,
+    "longitude": -71.099559,
+    "stars": 4.6,
+    "review_count": 34,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "eV7ge7vubonxLr3XYAq24w",
+    "name": "BURN Fitness Studios",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02118",
+    "latitude": 42.3413863778114,
+    "longitude": -71.0808489471674,
+    "stars": 4.7,
+    "review_count": 58,
+    "categories": [
+      "Boot Camps",
+      "Cycling Classes",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "KCU9Sc7l5qsr_eD7JU4wKQ",
+    "name": "Equinox Franklin Street",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02110",
+    "latitude": 42.3560350038332,
+    "longitude": -71.0546031526897,
+    "stars": 3.3,
+    "review_count": 80,
+    "categories": [
+      "Gyms",
+      "Day Spas",
+      "Sports Clubs"
+    ]
+  },
+  {
+    "business_id": "oiwmKO9DU1pVQiDqRQz0dQ",
+    "name": "The Training Room",
+    "city": "Somerville",
+    "state": "MA",
+    "postal_code": "02143",
+    "latitude": 42.38560330157771,
+    "longitude": -71.1131715,
+    "stars": 4.9,
+    "review_count": 51,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "-uW49dPfruysSFhF4bE10A",
+    "name": "Prolifters Gym",
+    "city": "Malden",
+    "state": "MA",
+    "postal_code": "02148",
+    "latitude": 42.43041,
+    "longitude": -71.04456,
+    "stars": 4.4,
+    "review_count": 16,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "wo0dUYnnb12GHpBW7GLorw",
+    "name": "Marino Recreation Center",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "latitude": 42.3401869607968,
+    "longitude": -71.09006298219663,
+    "stars": 3.3,
+    "review_count": 23,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "rTO2LV43rwFLIM-gmg130w",
+    "name": "VIM Fitness",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02139",
+    "latitude": 42.3650684,
+    "longitude": -71.1025856,
+    "stars": 3.9,
+    "review_count": 87,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "tD3KHwPWBXByxrsPxbOveA",
+    "name": "MIT Recreation",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02139",
+    "latitude": 42.358815,
+    "longitude": -71.096199,
+    "stars": 3.6,
+    "review_count": 33,
+    "categories": [
+      "Swimming Lessons/Schools",
+      "Recreation Centers",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "sXm3NnPOVqC_EodPieVkiw",
+    "name": "Commonwealth Sports Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02215",
+    "latitude": 42.3524838670023,
+    "longitude": -71.1247802647094,
+    "stars": 4.1,
+    "review_count": 125,
+    "categories": [
+      "Gyms",
+      "Pilates",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "MOHC8k-fdsofW4SphpF7oA",
+    "name": "Wang YMCA of Chinatown",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3487192,
+    "longitude": -71.0652508,
+    "stars": 3.4,
+    "review_count": 53,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Swimming Pools"
+    ]
+  },
+  {
+    "business_id": "I1GFGy4lD_BJmG8pReTMbQ",
+    "name": "SoWa Health + Wellness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02118",
+    "latitude": 42.34056172431674,
+    "longitude": -71.06716670070487,
+    "stars": 4.4,
+    "review_count": 5,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "XwXZ12U5JQaiSLI7byXuQg",
+    "name": "Invictus Boston - Columbus",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.34853,
+    "longitude": -71.07241,
+    "stars": 4.3,
+    "review_count": 28,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "o2CjN11pM8LX9dSX50xUTg",
+    "name": "Barry's Back Bay",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3483460051073,
+    "longitude": -71.0769435675397,
+    "stars": 4.3,
+    "review_count": 27,
+    "categories": [
+      "Boot Camps",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "xD9BuWV3EioCsZkBEsZ74w",
+    "name": "Retro Fitness",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02140",
+    "latitude": 42.3884193670028,
+    "longitude": -71.1184143,
+    "stars": 3.3,
+    "review_count": 3,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Yoga"
+    ]
+  },
+  {
+    "business_id": "98lSPHFSryEmMpTQi7bitg",
+    "name": "Cambridge YMCA",
+    "city": "Cambridge",
+    "state": "MA",
+    "postal_code": "02139",
+    "latitude": 42.36677,
+    "longitude": -71.10667,
+    "stars": 3.5,
+    "review_count": 73,
+    "categories": [
+      "Gyms",
+      "Preschools"
+    ]
+  },
+  {
+    "business_id": "mBiX0XlprVuQcxVgu1xPjA",
+    "name": "Women's Fitness of Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02108",
+    "latitude": 42.357973,
+    "longitude": -71.058921,
+    "stars": 4,
+    "review_count": 44,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Tanning"
+    ]
+  },
+  {
+    "business_id": "HQt88ceZ_mO9_yP4clTMpw",
+    "name": "Wave Health & Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02210",
+    "latitude": 42.3492393493652,
+    "longitude": -71.0417785644531,
+    "stars": 3.6,
+    "review_count": 13,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "S5mEgmNvFJPInlyD2oTXrg",
+    "name": "Planet Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "latitude": 42.3483344,
+    "longitude": -71.0876303,
+    "stars": 2.7,
+    "review_count": 9,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "Bzdvf0PP8WlroYHIB1OlEw",
+    "name": "New York Sports Club",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02114",
+    "latitude": 42.3616,
+    "longitude": -71.06088,
+    "stars": 2.1,
+    "review_count": 7,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "rSjnknHAhEI7Vo8bqSBGVw",
+    "name": "J.E.T. Boston",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.343939,
+    "longitude": -71.077971,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "Dz1inQEsC8qEiCwHtz38mg",
+    "name": "Crunch Fitness",
+    "city": "Allston",
+    "state": "MA",
+    "postal_code": "02134",
+    "latitude": 42.34825082186374,
+    "longitude": -71.13307906814237,
+    "stars": 2.2,
+    "review_count": 22,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "efkyTCBihgiPFOt_GIbRJQ",
+    "name": "Republic Fitness",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02110",
+    "latitude": 42.3566394299269,
+    "longitude": -71.0515511780977,
+    "stars": 4.1,
+    "review_count": 29,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "frrN6_NcOjKmHH6ogdACJQ",
+    "name": "Swet Studio",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02116",
+    "latitude": 42.3459066,
+    "longitude": -71.0691063,
+    "stars": 4.6,
+    "review_count": 109,
+    "categories": [
+      "Aerial Fitness",
+      "Meditation Centers"
+    ]
+  },
+  {
+    "business_id": "_1f6kPC9tw6CN0Qe7vmi4Q",
+    "name": "Rx Strength Training",
+    "city": "Somerville",
+    "state": "MA",
+    "postal_code": "02145",
+    "latitude": 42.3821574,
+    "longitude": -71.0888874,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Gyms",
+      "Boot Camps",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "6hsMrZhGiDnktVw_mK8uiw",
+    "name": "Anytime Fitness",
+    "city": "Quincy",
+    "state": "MA",
+    "postal_code": "02171",
+    "latitude": 42.2716981,
+    "longitude": -71.0230243,
+    "stars": 2.9,
+    "review_count": 58,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "LU_IkZLhyiEDWYS2_hNWAg",
+    "name": "EverybodyFights",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02210",
+    "latitude": 42.344280344868345,
+    "longitude": -71.02898448544438,
+    "stars": 4.4,
+    "review_count": 107,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "25IQNB6eiMhJFw3icat_0g",
+    "name": "Beacon Hill Athletic Club",
+    "city": "Brighton",
+    "state": "MA",
+    "postal_code": "02135",
+    "latitude": 42.34128,
+    "longitude": -71.14587,
+    "stars": 3.9,
+    "review_count": 127,
+    "categories": [
+      "Fitness & Instruction"
+    ]
+  }
+]

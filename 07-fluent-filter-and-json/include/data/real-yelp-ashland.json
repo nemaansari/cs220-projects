@@ -1,0 +1,756 @@
+[
+  {
+    "business_id": "-pd6MlVG_o7C_f8mEo-WDw",
+    "name": "Lashley Training Center",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "postal_code": "43050",
+    "latitude": 40.37506,
+    "longitude": -82.48476,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "LzrNLxxSjJjJNjt3pIQNMg",
+    "name": "East Coast Martial Arts",
+    "city": "Canton",
+    "state": "OH",
+    "postal_code": "44718",
+    "latitude": 40.845057,
+    "longitude": -81.435704,
+    "stars": 4.7,
+    "review_count": 3,
+    "categories": [
+      "Kickboxing",
+      "Brazilian Jiu-jitsu",
+      "Karate"
+    ]
+  },
+  {
+    "business_id": "gvii5OxMPTFeRRE_oGqMwA",
+    "name": "Iron & Soul",
+    "city": "Clyde",
+    "state": "OH",
+    "postal_code": "43410",
+    "latitude": 41.32201214446786,
+    "longitude": -83.0177065,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Brazilian Jiu-jitsu",
+      "Kickboxing",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "3Pq-oQUACJpd7M1nMhhoiQ",
+    "name": "The Warehouse",
+    "city": "North Canton",
+    "state": "OH",
+    "postal_code": "44720",
+    "latitude": 40.872366,
+    "longitude": -81.429377,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Martial Arts",
+      "Boxing",
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "IhXZv1u4p2KHyxaVPw6lxQ",
+    "name": "TITLE Boxing Club",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.460473,
+    "longitude": -81.959182,
+    "stars": 3.8,
+    "review_count": 22,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "aU_mF-2lb4PTD0HPNShPTQ",
+    "name": "Strong Style Martial Arts & Fitness Center",
+    "city": "Independence",
+    "state": "OH",
+    "postal_code": "44131",
+    "latitude": 41.4150009155273,
+    "longitude": -81.6448059082031,
+    "stars": 3.9,
+    "review_count": 12,
+    "categories": [
+      "Martial Arts",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "8ZFSrVLSCvNncwrxBwp_eA",
+    "name": "Hooligans Boxing & MMA",
+    "city": "North Ridgeville",
+    "state": "OH",
+    "postal_code": "44039",
+    "latitude": 41.38158,
+    "longitude": -82.06144,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Boxing",
+      "Martial Arts",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "xnzWQBXUBjBKszUlX6q4gQ",
+    "name": "TITLE Boxing Club - Strongsville",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.306992,
+    "longitude": -81.834076,
+    "stars": 3.8,
+    "review_count": 5,
+    "categories": [
+      "Boxing",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "EV-qN2fXg2zykKOs0zg92A",
+    "name": "9Round Fitness",
+    "city": "Avon",
+    "state": "OH",
+    "postal_code": "44011",
+    "latitude": 41.4578961,
+    "longitude": -82.02139,
+    "stars": 4,
+    "review_count": 2,
+    "categories": [
+      "Kickboxing",
+      "Nutritionists",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "LahlkBPWW4NqBNRAgtpLdQ",
+    "name": "Narrow Road Crossfit",
+    "city": "Marion",
+    "state": "OH",
+    "postal_code": "43302",
+    "latitude": 40.6278800964355,
+    "longitude": -83.1300277709961,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "2jGh65K7Wh9BTH2AlvRHXw",
+    "name": "Against The Ropes Boxing Gym",
+    "city": "Eastlake",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.63618,
+    "longitude": -81.43352,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "BSvt-a-KDtNpdhNAz2HQfA",
+    "name": "TITLE Boxing Club",
+    "city": "Solon",
+    "state": "OH",
+    "postal_code": "44139",
+    "latitude": 41.38682,
+    "longitude": -81.4419,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "093r7CUH2RW5R8uNe55A6w",
+    "name": "The Art of Karate",
+    "city": "Barberton",
+    "state": "OH",
+    "postal_code": "44203",
+    "latitude": 41.0130996704102,
+    "longitude": -81.6092071533203,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Karate"
+    ]
+  },
+  {
+    "business_id": "kt48Vu34kt9vqUhnOy_sJw",
+    "name": "LEFT 2 the CHIN Boxing Club",
+    "city": "Eastlake",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.629148,
+    "longitude": -81.44858,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "EFU5FV0btvtVEkVox0b1Hw",
+    "name": "Blind Dog Gym",
+    "city": "Lorain",
+    "state": "OH",
+    "postal_code": "44102",
+    "latitude": 41.4093393659118,
+    "longitude": -82.2775473026385,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "_CKZFOWPPTOiPUBYbkBRZg",
+    "name": "CrossFit Sandusky",
+    "city": "Sandusky",
+    "state": "OH",
+    "postal_code": "44870",
+    "latitude": 41.4577252,
+    "longitude": -82.709841,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "gg7s0IUsDsge1Cpg5J2MQQ",
+    "name": "TITLE Boxing Club",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.3073061,
+    "longitude": -81.8350951,
+    "stars": 4,
+    "review_count": 3,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "u3--2q7K0qDr-EIn-UtpGQ",
+    "name": "Rodriguez boxing club",
+    "city": "Tallmadge",
+    "state": "OH",
+    "postal_code": "44278",
+    "latitude": 41.102269,
+    "longitude": -81.453203,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "Cbv4dwaEJSxPyka9gDFLvw",
+    "name": "2 Tone Boxing Club",
+    "city": "Beachwood",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.46028344190308,
+    "longitude": -81.50928804447545,
+    "stars": 4.2,
+    "review_count": 13,
+    "categories": [
+      "Boxing",
+      "Trainers",
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "93_7V-WsgBd8-s_c9_VchQ",
+    "name": "Old School Iron Gym",
+    "city": "Brook Park",
+    "state": "OH",
+    "postal_code": "44142",
+    "latitude": 41.4159012,
+    "longitude": -81.7914734,
+    "stars": 5,
+    "review_count": 27,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "BX5BshVo24zDDQXHRdntDA",
+    "name": "Empowering Punch",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.308333,
+    "longitude": -81.818611,
+    "stars": 4.3,
+    "review_count": 18,
+    "categories": [
+      "Gyms",
+      "Trainers",
+      "Weight Loss Centers"
+    ]
+  },
+  {
+    "business_id": "my5tXmXpsGbJVcUz0mTAOA",
+    "name": "TITLE Boxing Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.48961,
+    "longitude": -81.710574,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "YSe0UFA6xcln9iOE6Sd09Q",
+    "name": "Kings Gym",
+    "city": "Bedford",
+    "state": "OH",
+    "postal_code": "44146",
+    "latitude": 41.41231,
+    "longitude": -81.50404,
+    "stars": 4.9,
+    "review_count": 14,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "cBlOMacWocvTfc_oHW09IA",
+    "name": "Nothing's Givhan Boxing",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44112",
+    "latitude": 41.52282317739382,
+    "longitude": -81.5940470032502,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "TpO8XDs9v19OwBsPUcPlFQ",
+    "name": "Birdtown Strength",
+    "city": "Lakewood",
+    "state": "OH",
+    "postal_code": "44107",
+    "latitude": 41.473789315958456,
+    "longitude": -81.78072265889584,
+    "stars": 4.8,
+    "review_count": 5,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "3as2fcCdpXKQS9ghZ3a10A",
+    "name": "Neighborhood Boxing Club",
+    "city": "Columbus",
+    "state": "OH",
+    "postal_code": "43229",
+    "latitude": 40.09342,
+    "longitude": -82.989186,
+    "stars": 4.6,
+    "review_count": 8,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "gJs9Xt0nIfPMjGchAnyVOQ",
+    "name": "Fighting For Fitness",
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "postal_code": "44023",
+    "latitude": 41.4024543762207,
+    "longitude": -81.2787170410156,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Trainers",
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "Z2tPtKe6EBmP80pUAXjX2g",
+    "name": "9Round Kickboxing Fitness",
+    "city": "Westerville",
+    "state": "OH",
+    "postal_code": "43082",
+    "latitude": 40.15423,
+    "longitude": -82.92104,
+    "stars": 5,
+    "review_count": 5,
+    "categories": [
+      "Circuit Training Gyms"
+    ]
+  },
+  {
+    "business_id": "AtUaviWvcYsiy20fyBMHvw",
+    "name": "Punch Fitness",
+    "city": "Westerville",
+    "state": "OH",
+    "postal_code": "43081",
+    "latitude": 40.1233949376921,
+    "longitude": -82.9474623938916,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boot Camps",
+      "Trainers",
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "p6E4RzJZu7y6hcbpZrOHvA",
+    "name": "TITLE Boxing Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44143",
+    "latitude": 41.5391563,
+    "longitude": -81.4529642,
+    "stars": 3.8,
+    "review_count": 33,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "mbkEjSGsMBY_v3KGKDJvWg",
+    "name": "Ares Combat Sports Academy",
+    "city": "Macedonia",
+    "state": "OH",
+    "postal_code": "44056",
+    "latitude": 41.2984197,
+    "longitude": -81.5100598,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Martial Arts",
+      "Boxing",
+      "Self-defense Classes"
+    ]
+  },
+  {
+    "business_id": "lkOeOgSH5Na0LFtaY9X7dQ",
+    "name": "Upgraded Industries",
+    "city": "Mentor",
+    "state": "OH",
+    "postal_code": "44060",
+    "latitude": 41.66383,
+    "longitude": -81.36764,
+    "stars": 4,
+    "review_count": 4,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "Mw0jHQeKRpRBh-OxNqpWhg",
+    "name": "Inspire Martial Arts",
+    "city": "North Royalton",
+    "state": "OH",
+    "postal_code": "44133",
+    "latitude": 41.31285,
+    "longitude": -81.7608,
+    "stars": 3.7,
+    "review_count": 3,
+    "categories": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "business_id": "QkmEZDOFtrvq4m_SBsM76g",
+    "name": "Pure Barre",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44011",
+    "latitude": 41.4544742,
+    "longitude": -81.9883804,
+    "stars": 4.5,
+    "review_count": 17,
+    "categories": [
+      "Barre Classes",
+      "Pilates"
+    ]
+  },
+  {
+    "business_id": "2wmRffYlso9ewbMoQGKEpg",
+    "name": "Devoted Fitness & Strength",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "postal_code": "44224",
+    "latitude": 41.17035923323382,
+    "longitude": -81.4943779811776,
+    "stars": 5,
+    "review_count": 6,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "8CVyLinJrqcOijFl9Z6vUA",
+    "name": "Anytime Fitness",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "postal_code": "43050",
+    "latitude": 40.4030991,
+    "longitude": -82.4482574,
+    "stars": 1,
+    "review_count": 7,
+    "categories": [
+      "Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "_J9B2PE1Sf8acEiSpsk9uA",
+    "name": "Good Shepards Boxing Club",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44302",
+    "latitude": 41.0862007,
+    "longitude": -81.5366669,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "RHdhm5BGh06hjDFOGRm8Yg",
+    "name": "Tremont Athletic Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.48024,
+    "longitude": -81.69618,
+    "stars": 4.8,
+    "review_count": 40,
+    "categories": [
+      "Trainers",
+      "Gyms",
+      "Boot Camps"
+    ]
+  },
+  {
+    "business_id": "OThAXkJEO3HRAVNDC-vqzg",
+    "name": "Root 18 CrossFit",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.1387659,
+    "longitude": -81.873018,
+    "stars": 5,
+    "review_count": 3,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "lUk1kFBM7OyH1QzNwkWgOw",
+    "name": "RipCityBoxing",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44135",
+    "latitude": 41.42569678595471,
+    "longitude": -81.81965061555894,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Boxing"
+    ]
+  },
+  {
+    "business_id": "cgeuh6aod6THnJ0Zncfwrw",
+    "name": "Revolution Fight And Fitness",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44117",
+    "latitude": 41.5656431,
+    "longitude": -81.5425015,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boxing",
+      "Gyms",
+      "Muay Thai"
+    ]
+  },
+  {
+    "business_id": "MEzRHVVlRQavnC-j2HFSYQ",
+    "name": "Iron Jox Fitness",
+    "city": "Macedonia",
+    "state": "OH",
+    "postal_code": "44056",
+    "latitude": 41.298261,
+    "longitude": -81.493244,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Trainers",
+      "Weight Loss Centers",
+      "Gyms"
+    ]
+  },
+  {
+    "business_id": "zqNAVBYtb403cX1bKSrlBg",
+    "name": "We HiiT",
+    "city": "Columbus",
+    "state": "OH",
+    "postal_code": "43230",
+    "latitude": 40.070332,
+    "longitude": -82.864058,
+    "stars": 0,
+    "review_count": 0,
+    "categories": [
+      "Boxing",
+      "Boot Camps",
+      "Kickboxing"
+    ]
+  },
+  {
+    "business_id": "MxCZWIPUWqIWHHRFobjIyg",
+    "name": "TITLE Boxing Club",
+    "city": "Columbus",
+    "state": "OH",
+    "postal_code": "43240",
+    "latitude": 40.142246,
+    "longitude": -82.991962,
+    "stars": 4.5,
+    "review_count": 12,
+    "categories": [
+      "Gyms",
+      "Boxing",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "95i2lOVhKVu8RZ-55v7nnw",
+    "name": "Grafton Health, Fitness & Events Center",
+    "city": "Grafton",
+    "state": "OH",
+    "postal_code": "44044",
+    "latitude": 41.286128,
+    "longitude": -82.063407,
+    "stars": 3,
+    "review_count": 4,
+    "categories": [
+      "Gyms",
+      "Venues & Event Spaces",
+      "Recreation Centers"
+    ]
+  },
+  {
+    "business_id": "RFyHnI-1tsOW6PhdPKPV3Q",
+    "name": "I/O Fit",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.5182764,
+    "longitude": -81.5495653,
+    "stars": 5,
+    "review_count": 4,
+    "categories": [
+      "Interval Training Gyms"
+    ]
+  },
+  {
+    "business_id": "f7iqdZt45nYxdq2tshw5-w",
+    "name": "CrossFit Saol",
+    "city": "Twinsburg",
+    "state": "OH",
+    "postal_code": "44087",
+    "latitude": 41.3097247230412,
+    "longitude": -81.4631802711639,
+    "stars": 5,
+    "review_count": 2,
+    "categories": [
+      "Interval Training Gyms",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "nB-CywO7vI-D6WdHNpPQwA",
+    "name": "Functions of Life",
+    "city": "Broadview Heights",
+    "state": "OH",
+    "postal_code": "44147",
+    "latitude": 41.29126,
+    "longitude": -81.68458,
+    "stars": 5,
+    "review_count": 1,
+    "categories": [
+      "Boot Camps",
+      "Sports Clubs",
+      "Trainers"
+    ]
+  },
+  {
+    "business_id": "EIFr4OLqMh1PjfCmwHi93g",
+    "name": "The Studio Cleveland",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.49787634774921,
+    "longitude": -81.70124638743332,
+    "stars": 4.7,
+    "review_count": 74,
+    "categories": [
+      "Yoga",
+      "Massage Therapy",
+      "Reiki"
+    ]
+  },
+  {
+    "business_id": "KUiTw3i3RUc1JysJLl0V3A",
+    "name": "Perpetual Fitness",
+    "city": "Broadview Heights",
+    "state": "OH",
+    "postal_code": "44147",
+    "latitude": 41.314967,
+    "longitude": -81.683157,
+    "stars": 5,
+    "review_count": 10,
+    "categories": [
+      "Trainers",
+      "Gyms"
+    ]
+  }
+]
